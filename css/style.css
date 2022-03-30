@@ -25,10 +25,7 @@
 }
 #card ul li
 {
-    border:solid 1px black;
-    border-bottom:none;
-    border-left:none;
-    border-right:none;
+    border-top:solid 1px black;
     list-style-type: none;
     padding:0px 10px 0px 10px;
 }
